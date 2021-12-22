@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\gdt\gdt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\gdt\gdt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\gdt\math\LinearSpace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\gdt\math\AffineSpace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\cmake\configure_build_type.cmake" />
+    <None Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\cmake\configure_optix.cmake" />
+    <None Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\include\gdt\cmake\FindOptiX.cmake" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{96635C3D-3C42-34B6-AFD7-880445164919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8CBBAEB1-CCF3-3588-B0B5-670971AA64FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

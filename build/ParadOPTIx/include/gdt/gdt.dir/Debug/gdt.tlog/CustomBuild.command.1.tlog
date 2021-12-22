@@ -1,0 +1,10 @@
+^C:\DEV\UNITY\PORTFOLIO\PARADOPTIX\PARADOPTIX\INCLUDE\GDT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/Unity/Portfolio/ParadOPTIx -BC:/dev/Unity/Portfolio/ParadOPTIx/build --check-stamp-file C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/gdt/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

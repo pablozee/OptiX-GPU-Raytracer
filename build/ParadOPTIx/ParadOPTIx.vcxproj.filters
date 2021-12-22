@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\dev\Unity\Portfolio\ParadOPTIx\build\ParadOPTIx\cuda_compile_ptx_1_generated_devicePrograms.cu.ptx_embedded.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\optix7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\CUDABuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\devicePrograms.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\Unity\Portfolio\ParadOPTIx\build\CMakeFiles\63ee4a5f427e36f25ac9debc7a2f6965\cuda_compile_ptx_1_generated_devicePrograms.cu.ptx_embedded.c.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A0C4A4CF-081D-31BD-80B2-7EF9A96F7C1D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{96635C3D-3C42-34B6-AFD7-880445164919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8CBBAEB1-CCF3-3588-B0B5-670971AA64FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

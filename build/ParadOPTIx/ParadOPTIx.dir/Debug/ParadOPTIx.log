@@ -1,0 +1,14 @@
+﻿  Building NVCC ptx file ParadOPTIx/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx
+  deviceprograms.cu
+c:\dev\unity\portfolio\paradoptix\paradoptix\deviceprograms.cu(19): warning : extern declaration of the entity optixLaunchParams is treated as a static definition
+  
+  deviceprograms.cu
+  compiling (and embedding ptx from) devicePrograms.cu
+  cuda_compile_ptx_1_generated_devicePrograms.cu.ptx_embedded.c
+  Renderer.cpp
+C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.3.0\include\optix_stubs.h(83,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.3.0\include\optix_stubs.h(84,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.3.0\include\optix_stubs.h(157,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.3.0\include\optix_stubs.h(158,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Unity\Portfolio\ParadOPTIx\ParadOPTIx\Renderer.cpp(631,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  ParadOPTIx.vcxproj -> C:\dev\Unity\Portfolio\ParadOPTIx\build\Debug\ParadOPTIx.exe

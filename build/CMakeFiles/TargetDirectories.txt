@@ -1,0 +1,15 @@
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/INSTALL.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/gdt/CMakeFiles/gdt.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/gdt/CMakeFiles/INSTALL.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/gdt/CMakeFiles/ALL_BUILD.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/3rdParty/glfw/CMakeFiles/uninstall.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/3rdParty/glfw/CMakeFiles/INSTALL.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/3rdParty/glfw/CMakeFiles/ALL_BUILD.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/3rdParty/glfw/src/CMakeFiles/glfw.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/3rdParty/glfw/src/CMakeFiles/INSTALL.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/glfWindow/CMakeFiles/glfWindow.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/include/glfWindow/CMakeFiles/INSTALL.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/CMakeFiles/ParadOPTIx.dir
+C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/CMakeFiles/INSTALL.dir

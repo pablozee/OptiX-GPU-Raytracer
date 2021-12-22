@@ -1,0 +1,30 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/CMakeLists.txt
+C:/dev/Unity/Portfolio/ParadOPTIx/ParadOPTIx/include/gdt/cmake/FindOptiX.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/ParadOPTIx/include/gdt/cmake/configure_build_type.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/ParadOPTIx/include/gdt/cmake/configure_optix.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/3.21.0-rc3/CMakeCCompiler.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/3.21.0-rc3/CMakeCXXCompiler.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/3.21.0-rc3/CMakeRCCompiler.cmake
+C:/dev/Unity/Portfolio/ParadOPTIx/build/CMakeFiles/3.21.0-rc3/CMakeSystem.cmake

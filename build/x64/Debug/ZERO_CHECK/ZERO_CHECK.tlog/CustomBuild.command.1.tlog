@@ -1,0 +1,10 @@
+^C:\DEV\UNITY\PORTFOLIO\PARADOPTIX\BUILD\CMAKEFILES\B580D49F9186BE755982ECB8B499DB76\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/Unity/Portfolio/ParadOPTIx -BC:/dev/Unity/Portfolio/ParadOPTIx/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

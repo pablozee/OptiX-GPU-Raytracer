@@ -1,0 +1,12 @@
+﻿  Building NVCC ptx file ParadOPTIx/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx
+  deviceprograms.cu
+c:\dev\paradoptix\paradoptix\deviceprograms.cu(14): warning : extern declaration of the entity optixLaunchParams is treated as a static definition
+  
+  deviceprograms.cu
+  compiling (and embedding ptx from) devicePrograms.cu
+  cuda_compile_ptx_1_generated_devicePrograms.cu.ptx_embedded.c
+glfWindow.lib(GLFWindow.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Renderer.obj
+glfWindow.lib(GLFWindow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Renderer.obj
+     Creating library C:/dev/ParadOPTIx/build/Release/ParadOPTIx.lib and object C:/dev/ParadOPTIx/build/Release/ParadOPTIx.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\dev\ParadOPTIx\build\Release\ParadOPTIx.exe : fatal error LNK1319: 2 mismatches detected

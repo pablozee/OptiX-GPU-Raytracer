@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\Unity\Portfolio\ParadOPTIx\build\CMakeFiles\f26d821b13ae7aa391bf1423dd9d7aad\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A0C4A4CF-081D-31BD-80B2-7EF9A96F7C1D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

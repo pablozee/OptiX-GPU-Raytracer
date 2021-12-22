@@ -1,0 +1,36 @@
+^C:\DEV\UNITY\PORTFOLIO\PARADOPTIX\PARADOPTIX\DEVICEPROGRAMS.CU
+setlocal
+cd C:\dev\Unity\Portfolio\ParadOPTIx\build\ParadOPTIx\CMakeFiles\cuda_compile_ptx_1.dir
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx -D generated_cubin_file:STRING=C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx.cubin.txt -P C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/CMakeFiles/cuda_compile_ptx_1.dir//cuda_compile_ptx_1_generated_devicePrograms.cu.ptx.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\UNITY\PORTFOLIO\PARADOPTIX\BUILD\CMAKEFILES\63EE4A5F427E36F25AC9DEBC7A2F6965\CUDA_COMPILE_PTX_1_GENERATED_DEVICEPROGRAMS.CU.PTX_EMBEDDED.C.RULE
+setlocal
+"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin\bin2c.exe" -c --padd 0 --type char --name embedded_ptx_code C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx > C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/cuda_compile_ptx_1_generated_devicePrograms.cu.ptx_embedded.c
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\UNITY\PORTFOLIO\PARADOPTIX\PARADOPTIX\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/Unity/Portfolio/ParadOPTIx -BC:/dev/Unity/Portfolio/ParadOPTIx/build --check-stamp-file C:/dev/Unity/Portfolio/ParadOPTIx/build/ParadOPTIx/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
